@@ -1,4 +1,4 @@
-# 12-aws-automation-blueprint
+# 12-aws-reliability-security
 
 A reference data platform blueprint with pragmatic governance: quality checks, lineage, access controls, and CI for data assets.
 
